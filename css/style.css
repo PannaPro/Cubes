@@ -1,0 +1,217 @@
+body {
+    color: #40514E;
+    margin: 0px;
+    text-align: center;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+}
+
+h1 {
+    font-family: 'Merriweather', sans-serif;
+    font-size: 2.5rem;
+    margin: 0px;
+    color: black;
+    line-height: 2;
+}
+
+h2 {
+    font-size: 1.5 rem;
+    font-family: 'Montserrat', sans-serif;
+    color: #3db2a1;
+    font-weight: 20px;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #73c6ba;
+}
+
+.top-container {
+    background-color: #73c6ba;
+    width: 100%;
+    height: auto;
+    padding-top: 200px;
+}
+
+.all-news-block {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    background-color: whitesmoke;
+    width: 80%;
+    margin: auto;
+}
+
+.all-news {
+    background-color: whitesmoke;
+    width: 300px;
+    padding: 0px 5px;
+    padding-bottom: 20px;
+    flex: 0 0 25%;
+    max-width: 23%;
+}
+
+.text-under-news {
+    margin: 10px auto 10px auto;
+}
+
+.data-under-news {
+    margin-bottom: 20px;
+}
+
+.hr-past-news-block {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 7px;
+    width: 6%;
+    margin: 50px auto;
+}
+
+.ny-in-konaev-img {
+
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+.skill-row {
+    width: 70%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: left;
+    line-height: 2;
+    text-align: justify;
+
+}
+
+.first {
+    width: 40%;
+    float: left;
+    margin: auto 30px auto 0px;
+    si
+}
+
+
+.second {
+    width: 40%;
+    float: right;
+    margin: auto 0px auto 30px;
+}
+
+.p-text-middle {
+    width: 70%;
+    margin: auto;
+    text-align: justify;
+    text-indent: 30px;
+}
+
+
+
+
+
+.mount-picture {
+    width: 40%;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 450px;
+    top: 20px
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 400px;
+    bottom: 400px;
+}
+
+.shit {
+    text-decoration: underline;
+}
+
+
+.filters__img {
+    height: 400px;
+    overflow: hidden;
+}
+
+.filters__img img {
+    width: initial;
+    height: 100%;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    background-color: whitesmoke;
+    offset-distance: 100%;
+}
+
+.maps-img {
+    height: 200px;
+}
+
+
+.bottom-container {
+    background-color: #73c6ba;
+    height: 150px;
+}
+
+.contact-me {
+    margin-bottom: 50px;
+}
+
+
+.footer {
+    padding-top: 40px;
+}
+
+a {
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    margin: 10px 20px;
+}
+
+a:hover {
+    color: white;
+}
+
+.copyright {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 1rem;
+    padding: 20px , 20px;
+}
+
+.btn {
+    background: #21b8cf;
+    background-image: -webkit-linear-gradient(top, #21b8cf, #2980b9);
+    background-image: -moz-linear-gradient(top, #21b8cf, #2980b9);
+    background-image: -ms-linear-gradient(top, #21b8cf, #2980b9);
+    background-image: -o-linear-gradient(top, #21b8cf, #2980b9);
+    background-image: linear-gradient(to bottom, #21b8cf, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 17px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #58c9b4;
+    text-decoration: none;
+  }
+
+
+

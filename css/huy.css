@@ -1,0 +1,16 @@
+body {
+    margin: 0px;
+}
+  .conteiner {
+    background-color: aqua;
+    width: 100%;
+    height: max-content;
+    position: absolute;
+    margin: 0px;
+  }
+
+  .red {
+    width: 100px;
+    height: 150px;
+    background-color: red;
+  }
